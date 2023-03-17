@@ -1,5 +1,4 @@
+I like to run into brick walls frequently.
+
 > I have to understand the world, you see.\
-> -- <cite>R. P. Feynman</cite>
-
-
-Which means, I run into brick walls frequently.
+> &mdash; <cite>R. P. Feynman</cite>
